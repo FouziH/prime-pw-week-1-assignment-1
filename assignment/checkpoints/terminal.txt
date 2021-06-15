@@ -31,4 +31,4 @@ git add . will add update and tells git that you would like to up date a particu
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 
-git push -u origin main
+git push -u origin main/master
